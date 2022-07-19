@@ -2,6 +2,9 @@
  a little tool to zip file on command lines for windows
  
  
+ 在windows命令行环境压缩文件
+ 
+ 
  简单用法  -h
  
  -p 指定 path  -f  指定文件 不能同时指定（相对/绝对路径）
